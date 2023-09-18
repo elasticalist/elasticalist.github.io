@@ -1,16 +1,6 @@
-# EnglishPremierLeaguePredictor INDEX
+# EnglishPremierLeaguePredictor
 
-EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their league table statistics. 
-
-## Upcoming Matches
-
-The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
-
-<p align="center">
-<iframe src="UpcomingMatchesPredictionFigure.html" width="1400" height="700" scrolling="no"></iframe>
-</p>
-
-A more detailed view can be seen in the "UpcomingMatchesPredictionTable.html".
+EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their only their league table statistics. 
 
 ## Betting Disclaimer
 
@@ -37,7 +27,7 @@ We then tested our model using cross-validation, training on all seasons but one
 
 ## Running the Algorithm for Upcoming Games
 
-To predict upcoming game outcomes, we scrape the betting website Stoiximan to gather upcoming match details and provided odds. This scraping process is performed using the 'StoiximanScraping.ipynb' file. The file also contains all the necessary scripts to update and run the predictor for upcoming matches. For each match a plot containing the most popular odds as calculated by the algorithm and compared to the betting company is produced. This provides an easy evaluation of the provided odds of the betting company. Furthermore the script also produces a table with all the available matches and a suggested bet using the Kelly betting algorithm provided a bank of 50 euros (can be adjusted through the script bank variable).
+To predict upcoming game outcomes, we scrape a betting website to gather upcoming match details and provided odds. This scraping process is performed using the 'BookmakerScraping.ipynb' file. The file also contains all the necessary scripts to update and run the predictor for upcoming matches. For each match a plot containing the most popular odds as calculated by the algorithm and compared to the betting company is produced. This provides an easy evaluation of the provided odds of the betting company. Furthermore the script also produces a table with all the available matches and a suggested bet using the Kelly betting algorithm provided a bank of 50 euros (can be adjusted through the script bank variable).
 
 
 ## Result Validation
