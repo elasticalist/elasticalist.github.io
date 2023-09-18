@@ -28,7 +28,6 @@ To incorporate recent form into our predictions, we repeated the process mention
 
  The model's hyperparameters (the condfidence it needs to bet on something) were tuned via random shuffling technique including all seasons. After hyperparameter optimization, our findings indicated that betting on "Under" can be profitable.
 
-![Profit example of the algorithm](https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/Examples/ExamplePlotProfit.png?raw=true)
 
 
 We then tested our model using cross-validation, training on all seasons but one and testing it on the hidden season. More precisely with 'PoissonPerSeason.ipynb' we test the algorithm on seasons 2020-2022 with the following results:
