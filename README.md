@@ -18,9 +18,7 @@ Provide a brief description of the two HTML figures you're displaying and includ
 
 Describe Figure 1 and provide an embedded iframe to display it:
 
-```html
 <iframe src="UpcomingMatchesPredictionFigure.html" width="100%" height="300"></iframe>
 
 
-```html
 <iframe src="UpcomingMatchesPrediction.html" width="100%" height="300"></iframe>
