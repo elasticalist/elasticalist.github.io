@@ -1,3 +1,8 @@
+---
+title: Home
+permalink: /
+---
+
 # EnglishPremierLeaguePredictor
 
 EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their only their league table statistics. 
