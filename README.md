@@ -5,7 +5,9 @@ EnglishPremierLeaguePredictor is a predictor of Premier League games based on hi
 ## Upcoming Matches
 
 The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
+<p align="center">
 <iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" scrolling="no"></iframe>
+</p>
 
 A more detailed view can be seen in the "UpcomingMatchesPredictionTable.html".
 
@@ -42,5 +44,6 @@ In that exact case our prediction was succesfull and indeed better than that of 
 
 
 
-
+<p align="center">
 <iframe src="UpcomingMatchesPrediction.html" width="1200" height="600" scrolling="no"></iframe>
+</p>
