@@ -1,15 +1,4 @@
-source: /_data
 theme: jekyll-theme-tactile
 title: EnglishPremierLeague Prediction
 description: Premier league predictions
-
-title: Home
-url: /
-
-title: Upcoming Matches
-ulr: /upcoming-matches/
-
-title: The Model
-url: /the-model/
-
    
