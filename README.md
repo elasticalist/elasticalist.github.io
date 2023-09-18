@@ -46,5 +46,5 @@ In that exact case our prediction was succesfull and indeed better than that of 
 
 
 <p align="center">
-<iframe src="UpcomingMatchesPrediction.html" width="1100" height="500" scrolling="no"></iframe>
+<iframe src="UpcomingMatchesPrediction.html" width="1100" height="800" scrolling="no"></iframe>
 </p>
