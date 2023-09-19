@@ -1,6 +1,6 @@
 ________________________________________________________________________________________________________________________________
 
-## [Home](https://elasticalist.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") | [Github Project]([https://elasticalist.github.io/Home/](https://github.com/nickpadd/EnglishPremierLeaguePredictor) "EnglishPremierLeaguePredictor github repository")
+## [Home](https://elasticalist.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") | [Github Project](https://github.com/nickpadd/EnglishPremierLeaguePredictor) "EnglishPremierLeaguePredictor github repository")
 
 
 This is the upcoming match predictions page.
