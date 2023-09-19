@@ -1,4 +1,12 @@
 theme: jekyll-theme-tactile
 title: EnglishPremierLeague Prediction
 description: Premier league predictions
+
+defaults:
+  - scope:
+      path: "/_data/"
+      type: "pages"
+    values:
+      layout: "page"  # You can use "page" or another layout you prefer
+
    
