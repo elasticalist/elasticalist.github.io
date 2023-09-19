@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
 title: EnglishPremierLeague Prediction
-description: {{ Football predictions using machine learning\ [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") | markdownify }}
+description: {{ Football predictions using machine learning\ [The Model](https://elasticalist.github.io/Model/ "Learn more about the model")  [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model")  [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") | markdownify }}
 defaults:
   - scope:
       path: "/_data/"
