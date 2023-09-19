@@ -5,7 +5,11 @@ ________________________________________________________________________________
 ## Upcoming Match Predictions
 
 The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
-<iframe src="https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/UpcomingMatchesPredictionFigure.html" width="100%" height="300"></iframe>
+<div style="text-align: left;">
+<iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 A more detailed view of the estimated probabilites predicted by the model can be seen below:
-<iframe src="https://github.com/nickpadd/EnglishPremierLeaguePredictor/blob/main/UpcomingMatchesPredictionFigureTable.html" width="100%" height="300"></iframe>
+<div style="text-align: left;">
+<iframe src="UpcomingMatchesPredictionFigure.html" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
