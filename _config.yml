@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-title: EnglishPremierLeague Prediction
+title: EnglishPremierLeague Predictor
 description: Football predictions using machine learning 
 defaults:
   - scope:
