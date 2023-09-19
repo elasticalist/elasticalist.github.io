@@ -7,10 +7,10 @@ ________________________________________________________________________________
 The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
 
 <div style="text-align: left;">
-<iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+<iframe src="https://github.com/elasticalist/elasticalist.github.io/blob/main/UpcomingMatchesPrediction.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 A more detailed view of the estimated probabilites predicted by the model can be seen below:
 <div style="text-align: left;">
-<iframe src="UpcomingMatchesPredictionFigure.html" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+<iframe src="[UpcomingMatchesPredictionFigure.html](https://github.com/elasticalist/elasticalist.github.io/blob/main/UpcomingMatchesPrediction.html)" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
