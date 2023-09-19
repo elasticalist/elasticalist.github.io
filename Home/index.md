@@ -2,7 +2,7 @@ ________________________________________________________________________________
 ## [Home](https://elasticalist.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") 
 
 
-# EnglishPremierLeaguePredictor
+## EnglishPremierLeaguePredictor
 
 EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account their league table statistics. It uses traditional machine learning techniques and statistical modeling in order to deduct data driven predictions based on the team's season performance and recent form. The model evaluation has shown promising results on predicting past seasons, proving it's capability to be profitable using certain betting strategies something that could provide impactful data-driven insights for either the bookmaker as well as the bettor.
 
