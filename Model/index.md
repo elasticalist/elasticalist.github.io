@@ -3,7 +3,7 @@ ________________________________________________________________________________
 ## [Home](https://elasticalist.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches") 
 
 ## The Model
-The model has been exclusively trained on English Premier League football matches spanning from 2017 to 2022. Given the inherent diversity within football and the remarkable advancements in data-driven technologies over recent years, the selection of training data for this project carries significant weight and should be approached with careful consideration. Hence we chose the past 5 years of the English Premier League in order to balance between the quantity and quality of the data.
+Given the inherent diversity within football and the remarkable advancements in data-driven technologies over recent years, the selection of training data for this project carries significant weight and should be approached with careful consideration. The model has been exclusively trained on English Premier League football matches spanning from 2017 to 2022 in order to balance between the quantity and quality of the data given the progress of the sport in the past years and the difference in other football leagues.
 
 ## Data Collection and Training
 
