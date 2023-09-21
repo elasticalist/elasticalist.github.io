@@ -3,7 +3,7 @@ title: EnglishPremierLeague Predictor
 description: Football predictions using machine learning 
 defaults:
   - scope:
-      path: "/_data/"
+      path: "/Home/"
       type: "pages"
     values:
       layout: "page"  # You can use "page" or another layout you prefer
