@@ -8,7 +8,8 @@ The predicted results of the following premier league matches in comparison with
 
 <iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no"></iframe> 
 
+The figure depicts a radar plot of the most popular bets which includes both the predicted probabilities and the probability assigned by the bookmaker as a conversion of the odds.
 
-A more detailed view of the estimated probabilites predicted by the model can be seen below:
+A more detailed view of the estimated probabilites predicted by the model in the different betting categories can be seen below:
 
 <iframe src="UpcomingMatchesPrediction.html" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe> 
