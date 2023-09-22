@@ -15,8 +15,10 @@ Focusing on the 'Under 2.5 Goals' betting we then tested our model using cross-v
 
 ![Betting on Under in 2020 Season](Under2020.png?raw=true)
 *Performance of the model on the Under 2.5 Goals bet for the 2020-2021 season. On the lower part of the x axis the match and date the model bet on is visible. On the top x axis the odds of the bet as well as the final scoreline are visible. With the blue line one can see the ROI index which is indicative of the percentage of the initial bank that is returned as profit and with the orange line the Net Gain (profit) amount is visible.*
+
 ![Betting on Under in 2021 Season](Under2021.png?raw=true)
 *Performance of the model on the Under 2.5 Goals bet for the 2021-2022 season. On the lower part of the x axis the match and date the model bet on is visible. On the top x axis the odds of the bet as well as the final scoreline are visible. With the blue line one can see the ROI index which is indicative of the percentage of the initial bank that is returned as profit and with the orange line the Net Gain (profit) amount is visible.*
+
 ![Betting on Under in 2022 Season](Under2022.png?raw=true)
 *Performance of the model on the Under 2.5 Goals bet for the 2022-2023 season. On the lower part of the x axis the match and date the model bet on is visible. On the top x axis the odds of the bet as well as the final scoreline are visible. With the blue line one can see the ROI index which is indicative of the percentage of the initial bank that is returned as profit and with the orange line the Net Gain (profit) amount is visible.*
 
