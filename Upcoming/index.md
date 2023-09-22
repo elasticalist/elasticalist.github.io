@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
 
-<iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -100px;"></iframe> 
+<iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -180px;"></iframe> 
 **
 
 The figure depicts a radar plot of the most popular bets which includes both the predicted probabilities and the probability assigned by the bookmaker as a conversion of the odds.
