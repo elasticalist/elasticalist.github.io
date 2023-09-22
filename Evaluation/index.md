@@ -5,7 +5,8 @@ ________________________________________________________________________________
 ## Model Evaluation
 For the hyperparameter optimisation a random shuffling technique was used. The results showed a consistent overperformance of the bookmakers' odds in betting 'Under 2.5 Goals' as depicted below:
 
-![Profit example of the algorithm](ExamplePlotProfit.png?raw=true)
+![Evaluation of the Under 2.5 Goals betting](ExamplePlotProfit.png?raw=true)
+*The performance of Under 2.5 Goals betting on repeated shuffled games. On the upper figure the balance and balance% can be seen with their respective confidence intervals. On the lower figure an indicative betting amount in comparison with the return of the bet can be seen*
 
 As for the other bets the performance was not as consistent, resulting in lower confidence of beating the bookmakers. There are many reasons on why that would be the case ranging from the need of better model tuning to the balancing of the odds of the bookmakers as a result of the betting tendancies of the average bettor. 
 
